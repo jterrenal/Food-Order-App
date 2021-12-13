@@ -1,0 +1,17 @@
+1. Create react app
+npx create-react-app food-order-app 
+
+2. Install react router
+npm install react-router-dom 
+
+3. Install Material UI materials and icons
+npm install @mui/@material
+npm install @mui/icons-material
+
+4. Install Emotion React 
+npm install @emotion/react
+npm install @emotion/styled
+
+5. Uninstalled react-router-dom v6
+
+6. Installed react-router-dom v5.2.0
